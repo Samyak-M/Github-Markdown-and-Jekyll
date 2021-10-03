@@ -2,7 +2,7 @@
 Key: Samyak
 ---
 
-# The wiriter is {{page.author}}
+# The writer is {{page.name}}
 
 ## Github-Markdown-and-Jekyll
 This seasion is created to learn Github, Markdown, and Jekyll.
