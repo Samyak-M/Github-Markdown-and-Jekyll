@@ -1,7 +1,8 @@
 ---
 Key: Samyak
 ---
-# The time is {{page.author}}
+
+# The wiriter is {{page.author}}
 
 # Github-Markdown-and-Jekyll
 This seasion is created to learn Github, Markdown, and Jekyll.
