@@ -1,5 +1,6 @@
 ---
 Key: Samyak
+layouts: demo_template
 ---
 
 The writer is {{page.author}}
