@@ -4,7 +4,7 @@ Key: Samyak
 
 # The wiriter is {{page.author}}
 
-# Github-Markdown-and-Jekyll
+## Github-Markdown-and-Jekyll
 This seasion is created to learn Github, Markdown, and Jekyll.
 
 ## Preface
