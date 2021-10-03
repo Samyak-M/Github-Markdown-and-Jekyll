@@ -1,10 +1,11 @@
 ---
 Key: Samyak
 ---
-# The time is {{site.time}}
+# The time is {{page.author}}
 
 # Github-Markdown-and-Jekyll
 This seasion is created to learn Github, Markdown, and Jekyll.
+
 ## Preface
 The following are the purpose of this seasion:
 - Learn _**Github**_
