@@ -8,5 +8,6 @@ The following are the purpose of this seasion:
 - Learn _Jekyll_
   -  Jekyll' is a static site generator. Written in _**Ruby**_
 
-### Image of Markdown
+## Markdown
 ![Markdown logo](http://kirkstrobeck.github.io/whatismarkdown.com/img/markdown.png)
+For more information on Markdown, see topic [Markdown](#Markdown)
