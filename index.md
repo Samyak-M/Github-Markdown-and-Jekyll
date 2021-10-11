@@ -13,3 +13,7 @@ The following are the purpose of this seasion:
 For more information on
 - Markdown, see [Markdown](topics/markdown.md#Markdown)
 - Jekyll, see [Jekyll](topics/jekyll.md#Jekyll)
+
+## Misleneous
+- For information on IBM Cloud, see [IBM Cloud](topics/IBMCloud.md#IBMCloud)
+- For example of data file with specific retrived data, see [Titanic Passenger](topics/titanicpassenger.md#titanicpassenger)
