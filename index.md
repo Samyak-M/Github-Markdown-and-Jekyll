@@ -11,10 +11,12 @@ I will demonstrate the following and others based on the question asked in the a
 
 ## Markdown
 ![Markdown logo](http://kirkstrobeck.github.io/whatismarkdown.com/img/markdown.png)
+
 For information on Markdown, see [Markdown](topics/markdown.md#Markdown)
 
 ## Jekyll
 ![Jekyll logo](https://shopify.github.io/liquid/images/jekyll-logo.png)
+
 For information on Jekyll, see [Jekyll](topics/jekyll.md#Jekyll)
 
 ## Misleneous Topics for the Assigments
