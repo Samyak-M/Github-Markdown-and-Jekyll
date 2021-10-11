@@ -10,4 +10,4 @@ The following are the purpose of this seasion:
 
 ## Markdown
 ![Markdown logo](http://kirkstrobeck.github.io/whatismarkdown.com/img/markdown.png)
-For more information on Markdown, see topic [Markdown](#Markdown)
+For more information on Markdown, see topic [Markdown](#Markdown.md)
